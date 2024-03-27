@@ -3,7 +3,7 @@
 
 ##  **Rutgers ECE 494/579**  ( Cloud Computing & Big Data - Fall 2023)
 
-### By: Mohit Agrawal & Arslan Tariq
+### By: Mohit Agarwal & Arslan Tariq
 
 ##  Introduction 
 
