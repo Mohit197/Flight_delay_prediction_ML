@@ -1,4 +1,4 @@
-# ** Predicting Flight Delays with PySpark: A Machine Learning Approach**
+# **Predicting Flight Delays with PySpark: A Machine Learning Approach**
 
 *Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)*
 
