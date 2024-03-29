@@ -10,7 +10,7 @@ As part of this project, the objective is to predict flight delays using PySpark
 
 ## Problem Statement
 
-The project aims to predict flight delays using a dataset obtained from open-source data sites like Kaggle.
+Flight delays disrupt air travel and incur losses for airlines. Leveraging Machine Learning and Data Science, this project aims to accurately predict flight delays using datasets from open-source platforms like Kaggle
 
 ## Approach
 
