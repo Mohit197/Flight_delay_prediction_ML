@@ -1,8 +1,9 @@
-<h1 style="font-family: Arial, sans-serif; color: #333;">Predict Flight Delays Using Machine Learning on PySpark</h1>
+# <span style="font-family:Poppins;">Predict Flight Delays Using Machine Learning on PySpark</span>
 
-<h2 style="font-family: Arial, sans-serif; color: #666;">Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)</h2>
+## <span style="font-family:Poppins;">Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)</span>
 
-<h3 style="font-family: Arial, sans-serif; color: #999;">By: Mohit Agarwal & Arslan Tariq</h3>
+### <span style="font-family:Poppins;">By: Mohit Agarwal & Arslan Tariq</span>
+
 
 ![Intro Background](Intro_Background.png)
 ## Introduction
