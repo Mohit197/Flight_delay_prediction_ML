@@ -1,8 +1,8 @@
-# Predict Flight Delays Using Machine Learning on PySpark
+<h1 style="font-family: Arial, sans-serif; color: #333;">Predict Flight Delays Using Machine Learning on PySpark</h1>
 
-## Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)
+<h2 style="font-family: Arial, sans-serif; color: #666;">Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)</h2>
 
-### By: Mohit Agarwal & Arslan Tariq
+<h3 style="font-family: Arial, sans-serif; color: #999;">By: Mohit Agarwal & Arslan Tariq</h3>
 
 ![Intro Background](Intro_Background.png)
 ## Introduction
