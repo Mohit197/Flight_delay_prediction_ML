@@ -4,6 +4,7 @@
 
 ### By: Mohit Agarwal & Arslan Tariq
 
+![Intro Background](Intro_Background.png)
 ## Introduction
 
 As part of this project, the objective is to predict flight delays using PySpark. PySpark is the Python API for Apache Spark, enabling real-time, large-scale data processing in a distributed environment using Python. An ensemble of basic classification-based machine learning models, namely Decision Tree, Random Forest, Logistic Regression, and Naive Bayes, will be experimented with to achieve this task. The ML model implementation will be done by interacting with Spark using the PySpark library.
