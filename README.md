@@ -32,9 +32,8 @@ Cleans data by removing spaces, null values, and converting miles to km.
 Selects relevant columns and converts them to appropriate data types.
 Creates a feature assembler dataframe with separate "features" and "labels" columns.
 
-### Training and Testing:
+### Training and Testing Model Building (Mapper3 & Reducer3):
 Splits the feature assembler dataframe into training and testing datasets.
-Model Building (Mapper3 & Reducer3):
 Trains a model using MapReduce tasks.
 Generates a pickle file for the trained model and vectorizers.
 Evaluates model performance on the testing data using the trained model.
