@@ -15,7 +15,8 @@ Flight delays disrupt air travel and incur losses for airlines. Leveraging Machi
 
 ## Approach
 
-![Intro Background](PySpark_Pic.png)  ![Intro Background](Hadoop_Pic.png)
+<img src="PySpark_Pic.png" alt="PySpark" width="400"/> <img src="Hadoop_Pic.png" alt="Hadoop" width="400"/>
+
 
 ### Workflow
 
