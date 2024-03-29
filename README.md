@@ -1,4 +1,4 @@
-# **Predict Flight Delays Using Machine Learning on PySpark**
+# ** Predicting Flight Delays with PySpark: A Machine Learning Approach**
 
 *Rutgers ECE 494/579 - Cloud Computing & Big Data (Fall 2023)*
 
@@ -6,12 +6,11 @@
 
 ![Intro Background](Intro_Background.png)
 ## Introduction
-
-As part of this project, the objective is to predict flight delays using PySpark. PySpark is the Python API for Apache Spark, enabling real-time, large-scale data processing in a distributed environment using Python. An ensemble of basic classification-based machine learning models, namely Decision Tree, Random Forest, Logistic Regression, and Naive Bayes, will be experimented with to achieve this task. The ML model implementation will be done by interacting with Spark using the PySpark library.
+Flight delays are a major pain point for travelers and airlines alike. This project tackles this challenge by leveraging the power of Machine Learning (ML) to predict flight delays using PySpark, a powerful framework for large-scale data processing with Python. An ensemble of basic classification-based machine learning models, namely Decision Tree, Random Forest, Logistic Regression, and Naive Bayes, will be experimented with to achieve this task. The ML model implementation will be done by interacting with Spark using the PySpark library.
 
 ## Problem Statement
 
-Flight delays disrupt air travel and incur losses for airlines. Leveraging Machine Learning and Data Science, this project aims to accurately predict flight delays using datasets from open-source platforms like Kaggle.
+Imagine a world where you can avoid airport chaos and plan your travel seamlessly!  This project aims to build a model using open-source flight data that can predict flight delays with high accuracy. Leveraging Machine Learning and Data Science, this project aims to accurately predict flight delays using datasets from open-source platforms like Kaggle.
 
 ## Approach
 
