@@ -10,7 +10,7 @@ Flight delays are a major pain point for travelers and airlines alike. This proj
 
 ## Problem Statement
 
-Imagine a world where you can avoid airport chaos and plan your travel seamlessly!  This project aims to build a model using open-source flight data that can predict flight delays with high accuracy. Leveraging Machine Learning and Data Science, this project aims to accurately predict flight delays using datasets from open-source platforms like Kaggle.
+Imagine a world where you can avoid airport chaos and plan your travel seamlessly!  This project aims to build a model using open-source flight data that can predict flight delays with high accuracy. Leveraging scalable cloud-based Machine Learning and Data Science models, this project aims to accurately predict flight delays using datasets from open-source platforms like Kaggle.
 
 ## Approach
 
