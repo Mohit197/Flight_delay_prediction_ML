@@ -78,6 +78,14 @@ Trained model are saved as pickle files.
 Feature selection is key to model outcomes. 
 Metrics for comparison : Accuracy, Recall and Precision. 
 Decision Tree emerged as best ML model
-## Conclusion
 
-[Conclusion here]
+## Conclusion
+Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
+Map-Reduce (MAPPER.py and REDUCER.py) code scripts developed to execute data-preprocessing, feature selection and model builder in PySpark and local Map-Reduce test done on HADOOP implementation.
+Map-Reduce framework implementation produced marginally better performance compared to PySpark
+Hadoop implementation on local HDFS is challenging due to need of setting up env. variables and installing ML libraries. 
+
+
+
+
+
