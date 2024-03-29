@@ -38,7 +38,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Results and Discussion
 
-[Results and discussion here]
+![Intro Background](Result_Pic.png)
 
 ## Conclusion
 
