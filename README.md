@@ -35,9 +35,6 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Method 2: Hadoop
 
-### Workflow Diagram
-
-[Workflow Diagram Placeholder]
 
 ## Results and Discussion
 
