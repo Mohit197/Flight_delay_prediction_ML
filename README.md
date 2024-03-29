@@ -15,6 +15,8 @@ Flight delays disrupt air travel and incur losses for airlines. Leveraging Machi
 
 ## Approach
 
+![Intro Background](PySpark_Pic.png)  ![Intro Background](Hadoop_Pic.png)
+
 ### Workflow
 
 Explain the workflow figure and mention all the ML models tried.
