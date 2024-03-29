@@ -25,13 +25,13 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ![Intro Background](Workflow_Diagram.png)
 
+## Method 1: PySpark
+
 ### Data Pre-Processing:
 
 ### Feature Engineering:
 
 ### Train/Test:
-
-## Method 1: PySpark
 
 ## Method 2: Hadoop
 
