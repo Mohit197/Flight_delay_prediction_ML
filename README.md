@@ -21,11 +21,15 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 <img src="ML_Explanation_Pic.png" alt="ML Explanation" width="600"/>
 
-### Workflow
+## Workflow
 
 ![Intro Background](Workflow_Diagram.png)
 
-Explain the workflow figure and mention all the ML models tried.
+### Data Pre-Processing:
+
+### Feature Engineering:
+
+### Train/Test:
 
 ## Method 1: PySpark
 
