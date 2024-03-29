@@ -19,7 +19,7 @@ Flight delays disrupt air travel and incur losses for airlines. Leveraging Machi
 
 We will leverage PySpark and Hadoop for processing large datasets. Our analysis will involve employing a variety of machine learning algorithms including Decision Tree, Logistic Regression, Naive Bayes, Random Forest, and Support Vector Machines.
 
-<img src="ML_Explanation_Pic.png" alt="ML Explanation" width="200"/>
+<img src="ML_Explanation_Pic.png" alt="ML Explanation" width="600"/>
 
 ### Workflow
 
