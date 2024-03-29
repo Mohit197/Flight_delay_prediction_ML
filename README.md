@@ -27,9 +27,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Method 1: PySpark
 
-## Data Pre-processing
-
-## Data Pre-processing
+### Data Pre-processing
 
 1. Import the CSV file and create a SparkSession to store the file contents into a Data Frame.
 2. Display the data frame and delete records with missing values.
@@ -38,14 +36,14 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
    - 1 = Delayed (Positive value in Data Frame)
 4. Assign numerical values to categorical data (carrier and organization) for inclusion in training. Categorical data is converted to quantitative data.
 
-## Feature Engineering:
+### Feature Engineering:
 
 - Feature selection step: Use an assembler object to consolidate predictor columns (features) after implementing One-Hot Encoding (OHE) on categorical data.
 - Columns included: ['mon', 'dom', 'dow', 'carrier_idx', 'org_idx', 'km', 'depart', 'duration']
 - Output column: 'features'
 - Predicted label column: 'delay' (converted into binary column)
 
-## Train/Test Split:
+### Train/Test Split:
 
 - Machine Learning consists of two processes: Model Training and Model Testing.
 - Testing Data Selection involves ensuring:
