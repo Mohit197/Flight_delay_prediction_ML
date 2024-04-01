@@ -74,10 +74,10 @@ Evaluates model performance on the testing data using the trained model.
 
 ![Intro Background](Result_Pic.png)
 
-Trained model are saved as pickle files. 
-Feature selection is key to model outcomes. 
-Metrics for comparison : Accuracy, Recall and Precision. 
-Decision Tree emerged as best ML model
+* Trained model are saved as pickle files. 
+* Feature selection is key to model outcomes. 
+* Metrics for comparison : Accuracy, Recall and Precision. 
+* Decision Tree emerged as best ML model
 
 ## Conclusion
 Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
