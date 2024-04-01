@@ -5,7 +5,7 @@
 *By: Mohit Agarwal & Arslan Tariq*
 
 ![Intro Background](Intro_Background.png)
-## Introduction
+
 ## Introduction
 
 Flight delays pose significant challenges for both travelers and airlines. This project addresses this issue by leveraging cloud computing methodologies, particularly through Apache Spark and its PySpark library, for large-scale data processing. By harnessing the power of distributed computing and cloud-based infrastructure, we aim to efficiently analyze vast amounts of flight data.
