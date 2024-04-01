@@ -80,10 +80,10 @@ Evaluates model performance on the testing data using the trained model.
 * Decision Tree emerged as best ML model
 
 ## Conclusion
-Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
-Map-Reduce (MAPPER.py and REDUCER.py) code scripts developed to execute data-preprocessing, feature selection and model builder in PySpark and local Map-Reduce test done on HADOOP implementation.
-Map-Reduce framework implementation produced marginally better performance compared to PySpark
-Hadoop implementation on local HDFS is challenging due to need of setting up env. variables and installing ML libraries. 
+* Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
+* Map-Reduce (MAPPER.py and REDUCER.py) code scripts developed to execute data-preprocessing, feature selection and model builder in PySpark and local Map-Reduce test done on HADOOP implementation.
+* Map-Reduce framework implementation produced marginally better performance compared to PySpark
+* Hadoop implementation on local HDFS is challenging due to need of setting up env. variables and installing ML libraries. 
 
 
 
