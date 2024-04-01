@@ -69,6 +69,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Method 2: Hadoop
 
+<img src="Prove1.png.png" alt="Local-Hadoop" width="400"/> <img src="Prove2.png" alt="Hadoop" width="400"/>
 
 ## Observation
 
