@@ -73,6 +73,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 
 The two images below depict the execution of Mapper and Reducer locally on our installed Hadoop, as well as the submission of a job on HDFS
+
 ![Locally_Running_HDFS_Part1](Prove1.png)
 ![Locally_Running_HDFS_Part2](Prove2.png)
 
