@@ -92,15 +92,15 @@ The following images depict the execution of Mapper and Reducer locally on our i
 
 ## Observation 
 
-###Decision Tree
+### Decision Tree
 
-###Logistic Regression 
+### Logistic Regression 
 
-###Naive Bayes
+### Naive Bayes
 
-###Random Forest
+### Random Forest
 
-###Support Vector Machines
+### Support Vector Machines
 
 
 
