@@ -92,8 +92,9 @@ The following images depict the execution of Mapper and Reducer locally on our i
 
 ## Observation 
 
-<div style="display: flex; justify-content: space-around;">
-    <div>
+<table>
+  <tr>
+    <td>
     
     | Map & Reduce Logic   | Accuracy |
     |----------------------|----------|
@@ -103,10 +104,10 @@ The following images depict the execution of Mapper and Reducer locally on our i
     | Random Forest        | Row 4    |
     | Support Vector Machines | Row 5    |
     
-    </div>
-    <div>
+    </td>
+    <td>
     
-    | Pyspark Implementation | Accuracy |
+    | PySpark Implementation | Accuracy |
     |----------------------|----------|
     | Decision Tree        | Row 1    |
     | Logistic Regression  | Row 2    |
@@ -114,8 +115,9 @@ The following images depict the execution of Mapper and Reducer locally on our i
     | Random Forest        | Row 4    |
     | Support Vector Machines | Row 5    |
     
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 
 ## Results and Discussion
