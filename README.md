@@ -94,11 +94,11 @@ The following images depict the execution of Mapper and Reducer locally on our i
 
 | Map & Reduce Logic   | Accuracy |
 |----------------------|----------|
-| Decision Tree        | Row 1    |
-| Logistic Regression  | Row 2    |
-| Naive Bayes          | Row 3    |
-| Random Forest        | Row 4    |
-| Support Vector Machines | Row 5    |
+| Decision Tree        | 0.6380   |
+| Logistic Regression  | 0.6098   |
+| Naive Bayes          | 0.5544   |
+| Random Forest        | 0.6366   |
+| Support Vector Machines | 0.6058    |
 
 | PySpark Implementation | Accuracy |
 |----------------------|----------|
