@@ -39,7 +39,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Method 1: PySpark
 
-- ### Data Pre-processing
+### Data Pre-processing
 
 1. Import the CSV file and create a SparkSession to store the file contents into a Data Frame.
 2. Display the data frame and delete records with missing values.
