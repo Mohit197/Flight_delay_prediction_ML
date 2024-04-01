@@ -70,14 +70,16 @@ Evaluates model performance on the testing data using the trained model.
 ## Method 2: Hadoop
 
 
-## Results and Discussion
+## Observation
 
-![Intro Background](Result_Pic.png)
+## Results and Discussion
 
 * Trained model are saved as pickle files. 
 * Feature selection is key to model outcomes. 
 * Metrics for comparison : Accuracy, Recall and Precision. 
 * Decision Tree emerged as best ML model
+  
+![Intro Background](Result_Pic.png)
 
 ## Conclusion
 * Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
