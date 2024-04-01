@@ -69,7 +69,12 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Method 2: Hadoop
 
-![Locally_Running_HDFS](Prove1.png)
+**The process follows the same steps as those taken in PySpark.** You are required to convert your Mapper and Reducer files into a .jar format before submitting them to HDFS. Utilize Eclipse Editor for converting your Java code into a jar file. **Additionally, a makefile has been provided for executing the job successfully.** It's imperative to **ensure that all machine learning dependencies are installed** before submitting your job to HDFS.
+
+
+The two images below depict the execution of Mapper and Reducer locally on our installed Hadoop, as well as the submission of a job on HDFS
+![Locally_Running_HDFS_Part1](Prove1.png)
+![Locally_Running_HDFS_Part2](Prove2.png)
 
 ## Observation
 
