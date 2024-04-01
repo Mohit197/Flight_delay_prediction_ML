@@ -16,7 +16,7 @@ Imagine a world where you can avoid airport chaos and plan your travel seamlessl
 
 <img src="PySpark_Pic.png" alt="PySpark" width="400"/> <img src="Hadoop_Pic.png" alt="Hadoop" width="400"/>
 
-We will leverage PySpark and Hadoop for processing large datasets. Our analysis will involve employing a variety of machine learning algorithms including Decision Tree, Logistic Regression, Naive Bayes, Random Forest, and Support Vector Machines.
+We will leverage PySpark and Hadoop for processing large datasets. Our analysis will involve employing a variety classification based machine learning algorithms including Decision Tree, Logistic Regression, Naive Bayes, Random Forest, and Support Vector Machines.
 
 <img src="ML_Explanation_Pic.png" alt="ML Explanation" width="600"/>
 
