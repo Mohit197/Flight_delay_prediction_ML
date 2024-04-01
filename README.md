@@ -92,13 +92,31 @@ The following images depict the execution of Mapper and Reducer locally on our i
 
 ## Observation & Results
 
-| Map & Reduce Logic   | Accuracy |
-|----------------------|----------|
-| Decision Tree        | Row 1    |
-| Logistic Regression  | Row 2    |
-| Naive Bayes          | Row 3    |
-| Random Forest        | Row 4    |
-| Support Vector Machines | Row 5    |
+<div style="display: flex; justify-content: space-around;">
+    <div>
+    
+    | Map & Reduce Logic   | Accuracy |
+    |----------------------|----------|
+    | Decision Tree        | Row 1    |
+    | Logistic Regression  | Row 2    |
+    | Naive Bayes          | Row 3    |
+    | Random Forest        | Row 4    |
+    | Support Vector Machines | Row 5    |
+    
+    </div>
+    <div>
+    
+    |Pyspark Implementation| Accuracy |
+    |----------------------|----------|
+    | Decision Tree        | Row 1    |
+    | Logistic Regression  | Row 2    |
+    | Naive Bayes          | Row 3    |
+    | Random Forest        | Row 4    |
+    | Support Vector Machines | Row 5    |
+    
+    </div>
+</div>
+
 
 
 
