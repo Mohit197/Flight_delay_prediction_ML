@@ -90,7 +90,7 @@ The following images depict the execution of Mapper and Reducer locally on our i
 ![Locally_Running_HDFS_Part2](Prove2.png)
 
 
-## Observation & Results
+## Observation 
 
 <div style="display: flex; justify-content: space-around;">
     <div>
@@ -106,7 +106,7 @@ The following images depict the execution of Mapper and Reducer locally on our i
     </div>
     <div>
     
-    |Pyspark Implementation| Accuracy |
+    | Pyspark Implementation | Accuracy |
     |----------------------|----------|
     | Decision Tree        | Row 1    |
     | Logistic Regression  | Row 2    |
@@ -116,9 +116,6 @@ The following images depict the execution of Mapper and Reducer locally on our i
     
     </div>
 </div>
-
-
-
 
 
 ## Results and Discussion
