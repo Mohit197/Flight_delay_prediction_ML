@@ -6,7 +6,7 @@
 
 ![Intro Background](Intro_Background.png)
 ## Introduction
-Flight delays are a major pain point for travelers and airlines alike. This project tackles this challenge by leveraging the power of Machine Learning (ML) to predict flight delays using PySpark, a powerful framework for large-scale (**big**) data processing with Python. An ensemble of basic classification-based machine learning models, namely Decision Tree, Random Forest, Logistic Regression, and Naive Bayes, will be experimented with to achieve this task. The ML model implementation will be done by interacting with Spark using the PySpark library.
+Flight delays pose significant challenges for both travelers and airlines. This project addresses this issue by leveraging cloud computing methodologies, particularly through Apache Spark and its PySpark library, for large-scale data processing. By harnessing the power of distributed computing and cloud-based infrastructure, we aim to efficiently analyze vast amounts of flight data. Our approach integrates machine learning techniques alongside cloud computing paradigms, employing algorithms like Decision Trees, Random Forests, Logistic Regression, and Naive Bayes for predictive modeling. Through the parallel processing capabilities of Spark, we utilize map and reduce operations to optimize data processing tasks. This project represents a fusion of cloud computing and machine learning, aiming to enhance predictive accuracy while efficiently handling the complexities of flight data analysis at scale
 
 ## Problem Statement
 
