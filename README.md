@@ -25,7 +25,7 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 ![Intro Background](Workflow_Diagram.png)
 
 ### Data Preprocessing (Mapper1 & Reducer1):
-Cleans data by removing spaces, null values, and converting miles to km.
+ - Cleans data by removing spaces, null values, and converting miles to km.
 
 ### Feature Selection (Mapper2 & Reducer2):
 Selects relevant columns and converts them to appropriate data types.
