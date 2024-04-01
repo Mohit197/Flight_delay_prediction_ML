@@ -29,20 +29,20 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
 
 ## Workflow
 
-![Intro Background](Workflow_Diagram.png)
+![Workflow Diagram](Workflow_Diagram.png)
 
 ### Data Preprocessing (Mapper1 & Reducer1):
- - Cleans data by removing spaces, null values, and converting miles to km.
+- Cleans data by removing spaces, null values, and converting miles to km.
 
 ### Feature Selection (Mapper2 & Reducer2):
- - Selects relevant columns and converts them to appropriate data types.
- - Creates a feature assembler dataframe with separate "features" and "labels" columns.
+- Selects relevant columns and converts them to appropriate data types.
+- Creates a feature assembler dataframe with separate "features" and "labels" columns.
 
 ### Training and Testing Model Building (Mapper3 & Reducer3):
- - Splits the feature assembler dataframe into training and testing datasets.
- - Trains a model using MapReduce tasks.
- - Generates a pickle file for the trained model and vectorizers.
- - Evaluates model performance on the testing data using the trained model.
+- Splits the feature assembler dataframe into training and testing datasets.
+- Trains a model using MapReduce tasks.
+- Generates a pickle file for the trained model and vectorizers.
+- Evaluates model performance on the testing data using the trained model.
 
 ## Method 1: PySpark
 
@@ -94,20 +94,15 @@ The following images depict the execution of Mapper and Reducer locally on our i
 
 ## Results and Discussion
 
-* Trained model are saved as pickle files. 
-* Feature selection is key to model outcomes. 
-* Metrics for comparison : Accuracy, Recall and Precision. 
-* Decision Tree emerged as best ML model
+- Trained model are saved as pickle files. 
+- Feature selection is key to model outcomes. 
+- Metrics for comparison : Accuracy, Recall and Precision. 
+- Decision Tree emerged as best ML model
   
-![Intro Background](Result_Pic.png)
+![Results](Result_Pic.png)
 
 ## Conclusion
-* Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
-* Map-Reduce (MAPPER.py and REDUCER.py) code scripts developed to execute data-preprocessing, feature selection and model builder in PySpark and local Map-Reduce test done on HADOOP implementation.
-* Map-Reduce framework implementation produced marginally better performance compared to PySpark
-* Hadoop implementation on local HDFS is challenging due to need of setting up env. variables and installing ML libraries. 
-
-
-
-
-
+- Successfully build a machine learning pipeline to predict flight delay using a publicly  available dataset.
+- Map-Reduce (MAPPER.py and REDUCER.py) code scripts developed to execute data-preprocessing, feature selection and model builder in PySpark and local Map-Reduce test done on HADOOP implementation.
+- Map-Reduce framework implementation produced marginally better performance compared to PySpark
+- Hadoop implementation on local HDFS is challenging due to need of setting up env. variables and installing ML libraries. 
