@@ -28,18 +28,18 @@ We will leverage PySpark and Hadoop for processing large datasets. Our analysis 
  - Cleans data by removing spaces, null values, and converting miles to km.
 
 ### Feature Selection (Mapper2 & Reducer2):
-Selects relevant columns and converts them to appropriate data types.
-Creates a feature assembler dataframe with separate "features" and "labels" columns.
+ - Selects relevant columns and converts them to appropriate data types.
+ - Creates a feature assembler dataframe with separate "features" and "labels" columns.
 
 ### Training and Testing Model Building (Mapper3 & Reducer3):
-Splits the feature assembler dataframe into training and testing datasets.
-Trains a model using MapReduce tasks.
-Generates a pickle file for the trained model and vectorizers.
-Evaluates model performance on the testing data using the trained model.
+ - Splits the feature assembler dataframe into training and testing datasets.
+ - Trains a model using MapReduce tasks.
+ - Generates a pickle file for the trained model and vectorizers.
+ - Evaluates model performance on the testing data using the trained model.
 
 ## Method 1: PySpark
 
-### Data Pre-processing
+- ### Data Pre-processing
 
 1. Import the CSV file and create a SparkSession to store the file contents into a Data Frame.
 2. Display the data frame and delete records with missing values.
